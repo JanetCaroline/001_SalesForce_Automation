@@ -40,13 +40,13 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Technology-Used-to-automate">Usage</a></li>
-    <li><a href="#AHT-saved">Usage</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Technology-Used-to-automate">Technologies Used to Automate</a></li>
+    <li><a href="#AHT-saved">AHT-saved</a></li>
+    <!--<li><a href="#usage">Usage</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#license">License</a></li>-->
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
