@@ -88,9 +88,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Your Name - [@janetcarolineg](https://www.linkedin.com/in/janetcarolineg/) - janetcaroline.g@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
