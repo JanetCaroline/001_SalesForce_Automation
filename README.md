@@ -1,9 +1,6 @@
 # 001_SalesForce_Automation
 001_SalesForce_Automation
-Process Overview:
-Applications Used:
-Technology Used to automate: UiPath, RE-Framework, Orchestrator, Robot, Queues
-AHT saved:
+
 
 
 
@@ -27,11 +24,6 @@ AHT saved:
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -78,6 +70,9 @@ AHT saved:
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#Technology-Used-to-automate">Usage</a></li>
+    <li><a href="#AHT-saved">Usage</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -88,11 +83,8 @@ AHT saved:
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
