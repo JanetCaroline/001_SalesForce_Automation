@@ -70,9 +70,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- Technologies-Used-to-automate -->
 ## Technologies-Used-to-automate
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+* UiPath
+* Excel
+* Macros
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,9 +80,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ATH-saved -->
 ## ATH-saved
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+4500 hours saved anually
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
