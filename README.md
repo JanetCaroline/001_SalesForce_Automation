@@ -40,7 +40,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Technology-Used-to-automate">Technologies Used to Automate</a></li>
+    <li><a href="#Technologies-Used-to-automate">Technologies Used to Automate</a></li>
     <li><a href="#AHT-saved">AHT-saved</a></li>
     <!--<li><a href="#usage">Usage</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -107,7 +107,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Technologies-Used-to-automate
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
