@@ -1,9 +1,3 @@
-# 001_SalesForce_Automation
-001_SalesForce_Automation
-
-
-
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -31,11 +25,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <!--<a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a>-->
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">001_SalesForce_Automation</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
